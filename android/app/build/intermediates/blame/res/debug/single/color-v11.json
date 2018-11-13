@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/AVATAR/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/AVATAR/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/AVATAR/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/AVATAR/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "217436056389",
+    "firebase_url": "https://avatar-96afc.firebaseio.com",
+    "project_id": "avatar-96afc",
+    "storage_bucket": "avatar-96afc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217436056389:android:b974b23ab7e33b53",
+        "android_client_info": {
+          "package_name": "com.nativestarterkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217436056389-oml22kcqen7kl9huo3lsloem27ae46je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfouzrRRwBmkXdGLd5wGOte0r8h2kOZm4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

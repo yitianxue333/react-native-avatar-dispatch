@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.17/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="248218f163235e6d2a81188eaa1db0ec61193055">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.17_ee81ada70468c2e2331f85f03c4b2683e56f1eed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_b1572ae9838aac47f53db983170a29436fa62b2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-11.0.4_3f07116ccfd30a7fdd53c35048f9081f56e75af5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.4_6ed36f7d677b3936ca00b958b46ad43b85ee5d96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_cef5a6826c7dac64d89cfbee5919115af6c76185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d082dc14909ece9d78a55c3d1c2ea134216e75c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_87791bee93293e8d9c8e78fce1d8dbba189fe4cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_394b119fa9937e0fa841f0319ec98f3878d3b3cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-fcm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a909ef9c3d2c69f2dbeffa1d0691d8628fa6b41">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-fcm-unspecified_078e49c17f2baf1e6f016301a5d06a7c405c1ac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_ab044e337d708dcdf6e8aa383f2c0160f9515884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-device-token/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c899ab82616540acf5cc79703fce8f014ee5f983">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-device-token-unspecified_6fcd51ab546604b99bdea13a65c3db55ffc4518c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-11.0.4_d1641c9bd8987a922255ad86579fd7100644415e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_1f1cc53a184dac65469581a12d0862d0cdd17f85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.1_71cd0559da61cb92afc17300c835d43718582bb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.0.4_ee41d0fff4234307a5299e36226a3a3772d7ec81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-geocoder/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f52090c69e53ec818bc2768bdf43bfbcf832bfb4">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-geocoder-unspecified_7a03ed7388c8210d35c78e49347deea77d3ee7ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_cb42be6d199f9913a802c6a546393cf2f0471883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-background-timer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="832fc04398f09286d944049027fbcc02597b362a">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-background-timer-unspecified_b206aa2356a449b84fc73d4af52cb74c1240d47e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.0.4_d0fd8884c8bee4e2d4c614e9652b972d15690fce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.0.4_f57917d7b3a27cb263ed78cabe4e1acee26098f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_2166be5f2ea0a408d226f2d6142997d2a1374f9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_2e783f10405bafc0a541eb827c5cf5baebd296b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_fc73f2368135e164fb19d374e9f5bd459ce525be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_aae72bb5f5efcf7c304a9348d83fd61b930f713e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_449dc27fd8f76bc5fbf141238fbdc761077f9a8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-11.0.4_6a8b71a4f1e821780c2134059ab092bc78fcbb3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_3c882547cf051a4bd4428b802f45c2ee274126f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_41d8991b761578385b896bea9186e4e4c6d15b68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_f39422d54d450903578b7b102714050227e7a239.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_a0aa753a890eb5c0c25b93d5f6ae85244da3a1ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_3bd2c497626ec9b1ce1d8bf8eccc34a454fdbc61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-vector-icons-unspecified_0b1e8bd996674361e8a1db2dd1a756075e02e532.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-code-push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d94accb19ab444c862c0a0eb0814a567f30fea0">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-code-push-unspecified_429d22aa8125deeaaee4c26de198d2b06cf0c474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_c1038ce5a144572b9e2a3a32c5d5d02af7fb6dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-device-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eee07b711975a7f22d8caf16de2bef23ccba672c">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-device-info-unspecified_eb858e87b9433b0bec4047b6f08cc21f8ccccd99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.0.4_a25e60b302dec700b2d83fbe00d18383e2c276e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_e21376b86e6ce175ad2bc4e450851bf1dfa05977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3eb4716e38c36af994cfeb934b15309b535ed112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_20dddf7af3e328a646a5c35cf104b3d23c073c82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_a321466ef70e8ef780930f572eaa2f6ca788f39a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_04d004389179e9e40a23b23e1388da712ce9c796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/NativeStarterKit/RNPermissionsModule/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92de0a64bcc7c81013c0a55751a68389e1484105">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-RNPermissionsModule-unspecified_beec661e1c2cc51a6c82257c5b2879506e3ef11b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Backup/Setup/Development-Tools/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_5c22adc80658c86a1609989940d883f868580e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_43890e6fe5ff629192206e2a63f73b595f0d36d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_a5ea9c8f36dc74369b209d24e2abcd3bdea2d136.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f9b3671860f93380368f4b21906e2e20401ec88e">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-maps-unspecified_6013a26efe17a562d23fbcb24d3f4cdaa7cc2ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.45.1_ed5199394d0fab0a856967bf693249dc6a1ead86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/NativeStarterKit/react-native-immediate-phone-call/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a63d2690341a8ebc70cb601834785941a6e48b13">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/NativeStarterKit-react-native-immediate-phone-call-unspecified_5c7f1534791079d9fe66e437dee800595bbfda4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_376e98cb16ef5ebc8076cc810060d037d2da3819.jar" />
+    </item>
+
+</items>

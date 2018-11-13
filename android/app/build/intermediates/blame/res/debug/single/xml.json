@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/AVATAR/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/AVATAR/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/res/xml/preferences.xml"
+    }
+]

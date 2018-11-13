@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/NativeStarterKit/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/AVATAR/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Volumes/Work/Workspace/Freelancer/Getjobber/Mobile/AVATAR/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
